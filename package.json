@@ -1,7 +1,7 @@
 {
-  "name": "ajs_oop",
+  "name": "ajs_advanced_1",
   "version": "1.0.0",
-  "description": "Classes and inheritance",
+  "description": "Object, Reflection и Proxy",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -20,7 +20,7 @@
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.5",
-    "babel-jest": "^25.4.0",
+    "babel-jest": "^25.5.1",
     "babel-loader": "^8.1.0",
     "css-loader": "^3.5.3",
     "eslint": "^6.8.0",
@@ -28,7 +28,7 @@
     "eslint-plugin-import": "^2.20.2",
     "html-loader": "^1.1.0",
     "html-webpack-plugin": "^4.2.0",
-    "jest": "^26.0.1",
+    "jest": "^26.1.0",
     "live-server": "^1.2.1",
     "mini-css-extract-plugin": "^0.9.0",
     "webpack": "^4.43.0",
@@ -40,13 +40,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VarsPtz/ajs-oop.git"
+    "url": "git+https://github.com/VarsPtz/ajs-advanced-1.git"
   },
   "keywords": [
-    "oop"
+    "Object"
   ],
   "bugs": {
-    "url": "https://github.com/VarsPtz/ajs-oop/issues"
+    "url": "https://github.com/VarsPtz/ajs-advanced-1/issues"
   },
-  "homepage": "https://github.com/VarsPtz/ajs-oop#readme"
+  "homepage": "https://github.com/VarsPtz/ajs-advanced-1#readme"
 }
